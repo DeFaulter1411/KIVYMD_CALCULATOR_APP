@@ -1,0 +1,5 @@
+kivy==2.3.2
+kivymd==1.1.1
+pygame==2.4.0
+pillow==10.1.0   # optional, if you use images
+requests==2.31.0 # optional, if your app makes HTTP requests
